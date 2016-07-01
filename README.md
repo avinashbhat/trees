@@ -23,3 +23,11 @@ This will run the given 4 testcases.
 The input given to the BST should be distinct numbers 
 to get a clean output in dot format. To assist this,
 the program ignores the case where number is equal to root.
+
+<h3>B+ Tree</h3>
+To build: $make
+
+This will run the given testcases. Before running the command
+copy the files in 'working' directory to current directory.
+Currently working right till first split. Some mistake in
+second split.
