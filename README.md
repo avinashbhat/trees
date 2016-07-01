@@ -27,7 +27,7 @@ the program ignores the case where number is equal to root.
 <h3>B+ Tree</h3>
 To build: $make
 
-This will run the given testcases. Before running the command
-copy the files in 'working' directory to current directory.
+This will run the given testcases. Run the command in 
+'working' directory.
 Currently working right till first split. Some mistake in
 second split.
