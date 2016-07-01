@@ -7,8 +7,10 @@ containing 50 elements with maximum element upto
 
 <h3>AVL</h3>
 To build: $make
+
 This will run the given 5 testcases.
 
 <h3>234</h3>
 To build: $make
+
 This will run the given 8 testcases.
