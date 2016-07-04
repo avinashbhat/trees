@@ -29,5 +29,4 @@ To build: $make
 
 This will run the given testcases. Run the command in 
 'working' directory.
-Currently working right till first split. Some mistake in
-second split.
+Working for given testcases.
